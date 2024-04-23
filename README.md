@@ -21,6 +21,10 @@
 - RestaurantChain クラス（Company クラスを拡張）
 - RestaurantLocation クラス
 
+## 学習内容
+- OOP(カプセル化、抽象化、継承、ポリモーフィズム)
+- AWS EC2によるデプロイ経験
+
 ## インストール
 
 1. リポジトリをクローンする
